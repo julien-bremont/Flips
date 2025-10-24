@@ -1,2 +1,7 @@
 # Flips
-Code and data availability for 'Flips reveal the universal impact of memory on random explorations'
+Code and data availability for the article 'Flips reveal the universal impact of memory on random explorations'.
+Folder 'simus' contains Python code to generate trajectories of models studied in the article.
+Folder 'CodeSplittingSimus-alternative flip def' contains Python code to compute the flip probability under the alternative 'boundary-to-origin' definition of flips.
+Folder 'flip-fractal' contains code to compute the flip probability for compact RWs on fractals (ie Sierpinski triangle / percolation cluster).
+Folder 'flip-prob-2d' contains code to compute the flip probability for marginal and transient RWs.
+Folder 'monkey' is an additional folder containing code to study the behavior of the monkey RW and its flip probability.
